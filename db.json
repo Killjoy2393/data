@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Lorem ipsum",
       "date": "04.02.2018",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores consequatur cum natus, dolorem necessitatibus minima?",
       "comments": [
         {
           "date": "04.05.2018",
@@ -27,6 +28,7 @@
       "id": 2,
       "name": "adipisicing elit",
       "date": "04.02.2018",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores consequatur cum natus, dolorem necessitatibus minima?",
       "comments": [
         {
           "date": "04.05.2018",
@@ -46,6 +48,7 @@
       "id": 3,
       "name": "dolor sit",
       "date": "04.02.2018",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores consequatur cum natus, dolorem necessitatibus minima?",
       "comments": [
         {
           "date": "04.05.2018",
@@ -69,6 +72,7 @@
       "id": 4,
       "name": "amet consectetur",
       "date": "04.02.2018",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores consequatur cum natus, dolorem necessitatibus minima?",
       "comments": [
         {
           "date": "04.05.2018",
@@ -84,6 +88,7 @@
       "id": 5,
       "name": "Amet, fugiat!",
       "date": "04.02.2018",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores consequatur cum natus, dolorem necessitatibus minima?",
       "comments": [
         {
           "date": "04.05.2018",
@@ -107,6 +112,7 @@
       "id": 6,
       "name": "sit amet",
       "date": "04.02.2018",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores consequatur cum natus, dolorem necessitatibus minima?",
       "comments": [
         {
           "date": "04.05.2018",
